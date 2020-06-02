@@ -2,7 +2,10 @@
 
 A tiny http server for Linux, rewritten from J. David Blackstone's tinyhttpd.
 
-Used Bash script instead of Perl in the cgi file and fully commented.
+## Feature
+* Able to process GET and POST requests.
+* Used Bash script instead of Perl for the .cgi file.
+* Fully commented.
 
 ## Try it yourself
 ```
